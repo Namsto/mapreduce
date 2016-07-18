@@ -3,4 +3,9 @@
   * [MapReduce-首页](tutorial/mapreduce-home.md)
   * [MapReduce-简介](tutorial/mapreduce-introduction.md)
   * [MapReduce-算法](tutorial/mapreduce-algorithm.md)
-
+  * [MapReduce-安装](tutorial/mapreduce-installation.md)
+  * [MapReduce-API](tutorial/mapreduce-api.md)
+  * [MapReduce-Hadoop实现](tutorial/mapreduce-hadoop-implementation.md)
+  * [MapReduce-分割器](tutorial/mapreduce-partitioner.md)
+  * [MapReduce-合并器](tutorial/mapreduce-combiners.md)
+  * [MapReduce-Hadoop管理](tutorial/mapreduce-hadoop-administration.md)
